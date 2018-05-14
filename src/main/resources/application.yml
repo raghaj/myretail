@@ -1,0 +1,14 @@
+
+
+
+product-lookup:
+  baseUrl: http://redsky.target.com
+  baseUrlPrefix: http://redsky.target.com/v2/pdp/tcin/
+  baseUrlSuffix: ?excludes=taxonomy,price,promotion,bulk_ship,rating_and_review_reviews,rating_and_review_statistics,question_answer_statistics
+
+
+server:
+  Port: 8081
+
+logging:
+  level:
